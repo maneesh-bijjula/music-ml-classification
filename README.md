@@ -1,6 +1,6 @@
 # music-ml-classification
 
-A production-style machine learning pipeline for three distinct music understanding tasks: composer classification from symbolic MIDI data, next-sequence prediction for musical continuity, and multi-label audio tagging. Built entirely from scratch over 20 days, exploring classical feature engineering, transformer-based embeddings, and ensemble learning strategies across both symbolic and audio music representations.
+A production-style machine learning pipeline for three distinct music understanding tasks: composer classification from symbolic MIDI data, next-sequence prediction for musical continuity, and multi-label audio tagging. Built entirely from scratch , exploring classical feature engineering, transformer-based embeddings, and ensemble learning strategies across both symbolic and audio music representations.
 
 ---
 
